@@ -1,0 +1,27 @@
+.jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #e9ecef;
+  border-radius: .3rem;
+}
+
+.xtr-pad{
+  margin: 2em;
+}
+
+#h{
+  font-size: 90px
+}
+
+td{
+  border: 5px solid black;
+  font-size: 100px;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+}
+
+.center{
+  margin-left: auto;
+  margin-right: auto;
+}
